@@ -1,1 +1,1 @@
-This is a simple shell team project for Berenice and Tafadzwa. 
+This is a readme file for Berenice and Tafadzwa on the Simple shell project
